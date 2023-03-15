@@ -1,9 +1,9 @@
 {
-  "account"   : "sivvcvl-fl89148",
-  "user"      : "pv1297",
-  "password"  : "Pvas123#",
-  "role"      : "ACCOUNTADMIN",
-  "warehouse" : "AS_ROI_WH",
-  "database"  : "AS_ROI_DB",
-  "schema"    : "AS_ROI_SCHEMA"
+  "account"   : "",
+  "user"      : "",
+  "password"  : "",
+  "role"      : "",
+  "warehouse" : "",
+  "database"  : "",
+  "schema"    : ""
 }
